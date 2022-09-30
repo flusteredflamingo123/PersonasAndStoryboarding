@@ -1,0 +1,54 @@
+body {
+    background-color: aliceblue;
+}
+
+.content {
+    margin-left: 4%;
+    margin-right: 4%;
+}
+
+h1 {
+    text-align: center;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.caption {
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+img {
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+#sketch {
+    height: 25rem;
+}
+
+.image-and-caption {
+    margin-top: 1.5rem;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.two-panes {
+    display: flex;
+}
+
+li {
+    padding-bottom: 0.1rem;
+}
+
+.empathy-map {
+    height: 20rem;
+}
+
+#storyboard {
+    height: 30rem;
+}
